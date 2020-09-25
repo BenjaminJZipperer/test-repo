@@ -1,0 +1,1 @@
+change delay time to 40 (from 400) ms
